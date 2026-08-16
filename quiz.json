@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "question": "What is your name",
+            "options": [
+                "Abimbola",
+                "Ibrahim",
+                "David"
+            ],
+            "correct_option": "Abimbola"
+        },
+        {
+            "question": "What is the capital of Nigeria",
+            "options": [],
+            "correct_option": "Abuja"
+        },
+        {
+            "question": "When did Nigeria gain her independence?",
+            "options": [
+                1900,
+                1956,
+                1960,
+                1982
+            ],
+            "correct_option": 1960
+        },
+        {
+            "question": "Under whose regime was mobile phone introduced to Nigeria?",
+            "options": [
+                "President Muhammad Buhari",
+                "President Olusegun Obasanjo",
+                "President Ahmed Tinubu",
+                "President Murtala Muhammed"
+            ],
+            "correct_option": "President Olusegun Obasanjo"
+        },
+        {
+            "question": "Which of these is the first university in Nigeria?",
+            "options": [
+                "University of Lagos",
+                "University of Nigeria",
+                "University of Benin",
+                "University of Ibadan"
+            ],
+            "correct_option": "University of Ibadan"
+        },
+        {
+            "question": "Who is the current Chief of Army Staff of Nigeria?",
+            "options": [
+                "General Tairu",
+                "President Ahmed Tinubu",
+                "Major General Yinka Adenusi"
+            ],
+            "correct_option": "President Ahmed Tinubu"
+        },
+        {
+            "question": "What is the first element of the periodic table?",
+            "options": [],
+            "correct_option": "Hydrogen"
+        },
+        {
+            "question": "How are you?",
+            "options": [],
+            "correct_option": "fine"
+        }
+    ]
+}
